@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #6a5acd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+}
+
+.main{
+    /* border: 2px solid red; */
+    text-align: center;
+    width: 300px;
+    
+    border-radius: 25px;
+}
+
+#month{
+    font-size: 35px;
+    padding: 10px;
+    background-color: #ff4500;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: white;
+}
+
+#dayName{
+    /* border: 2px solid black; */
+    padding: 20px;
+    font-size: 30px;
+    color: darkgrey;
+    background-color: #fff;
+}
+
+#date{
+    /* border: 2px solid greenyellow; */
+    font-size: 80px;
+    font-weight: 600;
+    background-color: #fff;
+}
+
+#year{
+    /* border: 2px solid black; */
+    padding: 20px;
+    font-size: 20px;
+    color: darkgrey;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #fff;
+}
