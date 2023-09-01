@@ -1,4 +1,4 @@
-# Date Display Web Page [Link]
+# Date Display Web Page [Link](https://shantanumurdio.github.io/homeAssignment_13/)
 
 This is a simple web page that displays the current date information, including the month, day of the week, date, and year. It uses HTML, CSS, and JavaScript to achieve this functionality.
 
